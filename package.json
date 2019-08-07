@@ -1,0 +1,25 @@
+{
+  "name": "exercise_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/min6676/exercise_nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/min6676/exercise_nodejs/issues"
+  },
+  "homepage": "https://github.com/min6676/exercise_nodejs#readme",
+  "dependencies": {
+    "sanitize-html": "^1.20.1"
+  }
+}
